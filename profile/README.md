@@ -1,3 +1,5 @@
+## Weecology
+
 We are an interdisciplinary ecology and environmental data science research group at the University of Florida.
 We consist of [Ethan White](https://github.com/ethanwhite)’s lab which uses data science to understand ecological systems using large ecological and environmental datasets
 and [Morgan Ernest](https://github.com/skmorgane)’s lab, which studies how ecological systems change through time and runs long-term monitoring efforts in the Everglades and the Arizona desert.
