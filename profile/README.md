@@ -6,6 +6,7 @@ train scientists in computational tools, and generally try to make science a bet
 
 You can also find us on:
 * [Our website](https://weecology.org)
+* [Our blog](https://jabberwocky.weecology.org/)
 * <a rel="me" href="https://ecoevo.social/@weecology">On Mastodon</a>
-* [On Twitter](https://twitter.com/weecology)
+* [On Bluesky](https://bsky.app/profile/weecology.bsky.social)
 * [Teaching data science and forecasting on YouTube](https://www.youtube.com/user/weecology)
